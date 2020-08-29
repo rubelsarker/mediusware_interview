@@ -678,5 +678,6 @@ if($user_meta['temp_subs'] === true){
         }
     });
 </script>
+@yield('scripts')
 </body>
 </html>
