@@ -102,10 +102,7 @@
             </div>
         </div>
     </div>
-
-
 @endsection
-
 @section('scripts')
     <script>
         $('#filterGroup').change(function () {
